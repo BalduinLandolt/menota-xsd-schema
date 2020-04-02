@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
-name: Menota XSD Schema
+title: Menota XSD Schema
 markdown: kramdown
 highlighter: rouge
