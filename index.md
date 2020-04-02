@@ -1,5 +1,5 @@
 ## About this Repo
-For more information, see the [readme](README). Please also check the [Github Repository](https://github.com/BalduinLandolt/menota-xsd-schema).
+For more information, see the [readme](README.md). Please also check the [Github Repository](https://github.com/BalduinLandolt/menota-xsd-schema).
 
 ## Style Sheets
 
@@ -12,3 +12,6 @@ Here is a list of the hosted files:
 - [teix.xsd](https://raw.githubusercontent.com/BalduinLandolt/menota-xsd-schema/master/teix.xsd)
 - [xml.xsd](https://raw.githubusercontent.com/BalduinLandolt/menota-xsd-schema/master/xml.xsd)
 
+## XML Template
+
+A template XML file can be downloaded [here](template.xml) or viewed in the repository [here](TODO!).
