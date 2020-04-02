@@ -1,5 +1,5 @@
 ## About this Repo
-For more information, see the [readme](readme.md).
+For more information, see the [readme](README.md).
 
 ## Style Sheets
 
