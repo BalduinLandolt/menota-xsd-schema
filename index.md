@@ -22,6 +22,7 @@ This template validates not only in Oxygen XML, but also in Visual Studio Code, 
 Generally, this works when declaring the schema in the document root by adding the attributes `xsi:schemaLocation` and defining the namespace `xsi`.  
 Simply use the following root element:
 ```XML
+
 <TEI  xmlns="http://www.tei-c.org/ns/1.0"
     xmlns:me="http://www.menota.org/ns/1.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
