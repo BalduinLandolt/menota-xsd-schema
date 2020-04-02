@@ -1,5 +1,5 @@
 ## About this Repo
-For more information, see the [readme](README.md). Please also check the [Github Repository](https://github.com/BalduinLandolt/menota-xsd-schema)
+For more information, see the [readme](README.md). Please also check the [Github Repository](https://github.com/BalduinLandolt/menota-xsd-schema).
 
 ## Style Sheets
 
